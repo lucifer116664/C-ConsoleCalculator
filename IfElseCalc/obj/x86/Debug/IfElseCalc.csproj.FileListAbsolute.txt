@@ -1,0 +1,6 @@
+/home/lucifer/Projects/Calc/IfElseCalc/bin/Debug/IfElseCalc.exe
+/home/lucifer/Projects/Calc/IfElseCalc/bin/Debug/IfElseCalc.pdb
+/home/lucifer/Projects/Calc/IfElseCalc/obj/x86/Debug/IfElseCalc.csproj.CoreCompileInputs.cache
+/home/lucifer/Projects/Calc/IfElseCalc/obj/x86/Debug/IfElseCalc.exe
+/home/lucifer/Projects/Calc/IfElseCalc/obj/x86/Debug/IfElseCalc.pdb
+/home/lucifer/Projects/Calc/IfElseCalc/obj/x86/Debug/IfElseCalc.csprojAssemblyReference.cache

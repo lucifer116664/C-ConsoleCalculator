@@ -1,0 +1,6 @@
+/home/lucifer/Projects/Calc/SwitchCalc/bin/Debug/SwitchCalc.exe
+/home/lucifer/Projects/Calc/SwitchCalc/bin/Debug/SwitchCalc.pdb
+/home/lucifer/Projects/Calc/SwitchCalc/obj/x86/Debug/SwitchCalc.csprojAssemblyReference.cache
+/home/lucifer/Projects/Calc/SwitchCalc/obj/x86/Debug/SwitchCalc.csproj.CoreCompileInputs.cache
+/home/lucifer/Projects/Calc/SwitchCalc/obj/x86/Debug/SwitchCalc.exe
+/home/lucifer/Projects/Calc/SwitchCalc/obj/x86/Debug/SwitchCalc.pdb
